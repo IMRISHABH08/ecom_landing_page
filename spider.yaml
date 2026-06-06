@@ -1,0 +1,13 @@
+no_comments: true
+export: true
+use_part_of: true
+use_references_list: false
+package: resources
+
+groups:
+  - path: assets/images
+    class_name: Images
+    types: [.png, .jpg, .jpeg, .webp, .svg]
+  - path: assets/lottie
+    class_name: Lotties
+    types: [.json]
