@@ -1,4 +1,4 @@
-package com.example.ecom_landing_page
+package flicktv.rishabh
 
 import io.flutter.embedding.android.FlutterActivity
 
